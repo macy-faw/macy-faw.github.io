@@ -20,7 +20,8 @@ University of North Carolina at Chapel Hill
 
 ## Practicum Experience
 **Team Lead**
-Firstleaf	Napa, California (Remote) 
+
+Firstleaf	Napa, California (_Remote_) 
 (_August 2024—Current_)
 
 •	Perform feature engineering on ~4 million observations across 20+ datasets to prepare for clustering.
@@ -31,7 +32,7 @@ Firstleaf	Napa, California (Remote)
 
 
 ## Projects
-# Battleship Project
+**Battleship Project**
 [Code](battleship.py)
 
 Python code for a battleship game - option for 1 player or 2 players. 
