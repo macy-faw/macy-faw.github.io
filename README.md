@@ -1,6 +1,7 @@
 # Aspiring Data Scientist
 
 **Technical Skills**: Python, SQL, R, Tableau
+
 **Certifications**: PCEP – Certified Entry-Level Python Programmer
 
 ## Contact Information
@@ -9,14 +10,15 @@
 **LinkedIn**: [https://www.linkedin.com/in/macy-faw/](https://www.linkedin.com/in/macy-faw/)
 
 ## Education
-**M.S. in Analytics** 	
-May 2025
+**M.S. in Analytics** 
+
+(_May 2025_)
+
 Institute for Advanced Analytics, North Carolina State University, Raleigh, NC
 
 **B.S. in Information Science | B.A. in Psychology | Minor in Statistics and Analytics |**
-May 2024
-Honors Carolina
-University of North Carolina at Chapel Hill
+(_May 2024_)
+Honors Carolina | University of North Carolina at Chapel Hill
 
 ## Practicum Experience
 **Team Lead**
