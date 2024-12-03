@@ -5,8 +5,11 @@
 **Certifications**: PCEP – Certified Entry-Level Python Programmer
 
 ## Contact Information
+
 **Phone**: (910) 434-2418
+
 **Email**: macyfaw@yahoo.com
+
 **LinkedIn**: [https://www.linkedin.com/in/macy-faw/](https://www.linkedin.com/in/macy-faw/)
 
 ## Education
