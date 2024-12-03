@@ -22,6 +22,7 @@
 **Team Lead**
 
 Firstleaf	Napa, California (_Remote_) 
+
 (_August 2024—Current_)
 
 •	Perform feature engineering on ~4 million observations across 20+ datasets to prepare for clustering.
