@@ -1,4 +1,5 @@
 # Aspiring Data Scientist
+![Macy Faw's Headshot](MSA-Headshot.jpg)
 
 **Technical Skills**: Python, SQL, R, Tableau
 
