@@ -42,7 +42,16 @@ Firstleaf	- Napa, California (_Remote_)
 
 ## Projects
 **Battleship Project**
-[Code](battleship.py)
+
+[Python Code](battleship.py)
 
 Python code for a battleship game - option for 1 player or 2 players. 
+
+**NCSU Women's Tennis Dashboard**
+
+Created a Tableau Dashboard for the NC State women's team to visualize match and WTA performance. 
+
+![Tennis Dashboard](dashboard.jpg)
+(_Homepage_)
+
 
