@@ -22,11 +22,11 @@
 - Honors Carolina | University of North Carolina at Chapel Hill
 
 ## Practicum Experience
-**Team Lead**
+<ins>**Team Lead**</ins>
 
 **August 2024-Current**
 
-Firstleaf	Napa, California (_Remote_)
+Firstleaf	- Napa, California (_Remote_)
 
 •	Perform feature engineering on ~4 million observations across 20+ datasets to prepare for clustering.
 
