@@ -25,9 +25,13 @@ Firstleaf	Napa, California (_Remote_)
 (_August 2024—Current_)
 
 •	Perform feature engineering on ~4 million observations across 20+ datasets to prepare for clustering.
+
 •	Identify high-value customer segments by developing a scalable clustering solution (PCA, K-means, etc.) in Python to enhance retention and acquisition.
+
 •	Employ binary logistic regression to identify behaviors associated with increased customer churn to prioritize outreach efforts.
+
 •	Build an interactive Tableau dashboard to enable fluid exploration of customer segments and their data.
+
 •	Present findings to C-suite executives to provide strategic marketing recommendations for acquiring customers and reducing churn.
 
 
