@@ -21,9 +21,9 @@
 - Institute for Advanced Analytics, North Carolina State University, Raleigh, NC
 
 
-**B.S. in Information Science | B.A. in Psychology | Minor in Statistics and Analytics |** (_May 2024_)
+**B.S. in Information Science, B.A. in Psychology, Minor in Statistics and Analytics** (_May 2024_)
 
-- Honors Carolina | University of North Carolina at Chapel Hill
+- Honors Carolina at University of North Carolina at Chapel Hill
 
 ## Practicum Experience
 <ins>**Team Lead**</ins>
