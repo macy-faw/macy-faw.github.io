@@ -51,9 +51,9 @@ Firstleaf	- Napa, California (_Remote_)
 Python code for a battleship game - option for 1 player or 2 players. 
 
 
-<ins>**[NCSU Women's Tennis Dashboard]**</ins>(https://public.tableau.com/app/profile/landon.docherty/viz/NCSUWomensTennis-3-2-2/HomePage)
+<ins>**NCSU Women's Tennis Dashboard**</ins>
 
-Created a Tableau Dashboard for the NC State women's team to visualize match and WTA performance. 
+Created a [Tableau Dashboard](https://public.tableau.com/app/profile/landon.docherty/viz/NCSUWomensTennis-3-2-2/HomePage) for the NC State women's team to visualize match and WTA performance. 
 
 ![Tennis Dashboard](dashboard.jpg)
 (_Homepage_)
