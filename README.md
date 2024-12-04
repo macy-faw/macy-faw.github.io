@@ -46,9 +46,7 @@ Firstleaf	- Napa, California (_Remote_)
 ## Projects
 <ins>**Battleship Project**</ins>
 
-[Python Code](battleship.py)
-
-Python code for a battleship game - option for 1 player or 2 players. 
+[Python Code](battleship.py) for a battleship game - option for 1 player or 2 players. 
 
 
 <ins>**NCSU Women's Tennis Dashboard**</ins>
