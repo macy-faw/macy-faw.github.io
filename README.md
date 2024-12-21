@@ -44,6 +44,11 @@ Firstleaf	- Napa, California (_Remote_)
 
 
 ## Projects
+<ins>**Dad Joke Selector**</ins>
+
+Created a [Dad Joke Selector](dad-joke.py) using a Kaggle dataset of dad jokes. Download dad_jokes_cleaned.csv to run the dad_jokes.py file and see the selector in use! 
+
+
 <ins>**Battleship Project**</ins>
 
 [Python Code](battleship.py) for a battleship game - option for 1 player or 2 players. 
