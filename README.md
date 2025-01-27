@@ -30,6 +30,7 @@
 **August 2024-Current**
 
 Firstleaf	- Napa, California (_Remote_)
+![Practicum Team](prac_team.JPG)
 
 •	Perform feature engineering on ~4 million observations across 20+ datasets to prepare for clustering.
 
